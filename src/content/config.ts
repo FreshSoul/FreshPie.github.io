@@ -19,6 +19,16 @@ const postsCollection = defineCollection({
 		nextSlug: z.string().default(""),
 	}),
 });
+
+const _wwreaperCollection = defineCollection({
+	schema: z.object({
+		title: z.string(),
+		published: z.date(),
+	}),
+});
+
+
 export const collections = {
 	posts: postsCollection,
+	_Wwreaper: _wwreaperCollection,
 };

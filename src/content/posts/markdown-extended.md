@@ -1,12 +1,11 @@
 ---
-title: Markdown Extended Features
-published: 2024-05-01
-updated: 2024-11-29
-description: 'Read more about Markdown features in Fuwari'
+title: 扩展的一些功能
+published: 2025-07-01
+description: 扩展功能
 image: ''
-tags: [Demo, Example, Markdown, Fuwari]
-category: 'Examples'
-draft: false 
+tags: [介绍,网站编辑]
+category: 自用网站编辑
+draft: true
 ---
 
 ## GitHub Repository Cards

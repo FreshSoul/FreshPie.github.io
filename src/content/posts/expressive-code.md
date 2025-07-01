@@ -1,13 +1,13 @@
 ---
-title: Expressive Code Example
-published: 2024-04-10
-description: How code blocks look in Markdown using Expressive Code.
-tags: [Markdown, Blogging, Demo]
-category: Examples
-draft: false
+title: 代码展示
+published: 2025-07-01
+description: 使用 Expressive Code 时代码块在 Markdown 中的外观.
+tags: [介绍,网站编辑]
+category: 自用网站编辑
+draft: true
 ---
 
-Here, we'll explore how code blocks look using [Expressive Code](https://expressive-code.com/). The provided examples are based on the official documentation, which you can refer to for further details.
+本文将探讨如何使用 [Expressive Code](https://expressive-code.com/) 来呈现代码块。本文提供的示例基于官方文档，您可以参考该文档了解更多详细信息。
 
 ## Expressive Code
 
